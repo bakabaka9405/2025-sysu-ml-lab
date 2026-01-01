@@ -1,2 +1,8 @@
 .vscode
 __pycache__
+AGENTS.md
+data
+outputs
+CLAUDE.md
+AGENTS.md
+*.pdf
